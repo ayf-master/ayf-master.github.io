@@ -23,7 +23,7 @@ baseurl : # does not include hostname
 title   : ayf-master
 description: >个人项目作品集 # this means to ignore newlines until "Language & timezone"
   Your Site Description
-
+theme: jekyll-TeXt-theme
 
 ## => Language and Timezone
 ##############################
